@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.fentastic" version="1.19.0" name="FENtastic"
-	provider-name="Ivar Brandt">
+	provider-name="Ivar Brandt, idealkooks">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.fentastic.helper" version="1.19.0 />
